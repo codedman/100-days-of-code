@@ -13,3 +13,5 @@ I started freecodecamp afresh. Learnt the basics of HTML. Completed 6/28 of the 
 Tsharpdevelopers account was my default account this time. I tried out MS Edge browser; was cool though ;)
 
 ### R1D2
+
+Still on the basics of HTML. Completed 9/28 of the Basic HTML and HTML5 section of the freecodecamp curriculum.We move!! 
