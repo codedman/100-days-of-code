@@ -15,3 +15,7 @@ Tsharpdevelopers account was my default account this time. I tried out MS Edge b
 ### R1D2
 
 Still on the basics of HTML. Completed 9/28 of the Basic HTML and HTML5 section of the freecodecamp curriculum.We move!! 
+
+### R1D3
+
+Still on the basics of HTML. Completed 14/28 of the Basic HTML and HTML5 section of the freecodecamp curriculum.We move!! 
