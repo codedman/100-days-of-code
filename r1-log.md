@@ -23,3 +23,7 @@ Still on the basics of HTML. Completed 14/28 of the Basic HTML and HTML5 section
 ### R1D4 dec 22,2019
 
 Still on the basics of HTML. Completed 23/28 of the Basic HTML and HTML5 section of the freecodecamp curriculum.We move!!
+
+### R1D5 dec 23,2019
+
+Still on the basics of HTML. Completed 28/28 of the Basic HTML and HTML5 section of the freecodecamp curriculum.We move to CSS!!
