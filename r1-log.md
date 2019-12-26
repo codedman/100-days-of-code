@@ -35,3 +35,7 @@ Started the Basic CSS section. Completed 5/44 of the Basic CSS section of the fr
 ### R1D7 dec 25,2019
 
 Still on the Basic CSS section. Completed 9/44 of the Basic CSS section of the freecodecamp curriculum. We move to the CSS planet!!
+
+### R1D8 dec 26,2019
+
+Still on the Basic CSS section. Completed 13/44 of the Basic CSS section of the freecodecamp curriculum. We move to the CSS planet!!
