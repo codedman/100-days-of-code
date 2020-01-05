@@ -75,3 +75,7 @@ Still on the Basic CSS section. Completed 44/44 of the Basic CSS section of the 
 ### R1D17 Jan 4,2020
 
 Started the Applied Visual Design section. Completed 3/52 of the Applied Visual Design section of the freecodecamp curriculum. We move!!
+
+### R1D18 Jan 5,2020
+
+Started the Applied Visual Design section. Completed 8/52 of the Applied Visual Design section of the freecodecamp curriculum. We move!!
