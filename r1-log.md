@@ -91,3 +91,7 @@ Started the Applied Visual Design section. Completed 11/52 of the Applied Visual
 ### R1D21 Jan 9,2020
 
 Started the Applied Visual Design section. Completed 16/52 of the Applied Visual Design section of the freecodecamp curriculum. We move!!
+
+### R1D22 Jan 11,2020
+
+Started the Applied Visual Design section. Completed 18/52 of the Applied Visual Design section of the freecodecamp curriculum. We move!!
